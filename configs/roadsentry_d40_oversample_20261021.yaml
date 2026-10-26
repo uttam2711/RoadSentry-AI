@@ -1,0 +1,14 @@
+path: /home/uttam_2711/projects/roadsentry-ai/data/processed/roadsentry_yolo_multicountry_v2
+train: /home/uttam_2711/projects/roadsentry-ai/data/processed/roadsentry_yolo_multicountry_v2/train_d40_oversampled_v1.txt
+val: images/val
+names:
+  0: D00
+  1: D10
+  2: D20
+  3: D40
+  4: D01
+  5: D11
+  6: D43
+  7: D44
+  8: D50
+nc: 9

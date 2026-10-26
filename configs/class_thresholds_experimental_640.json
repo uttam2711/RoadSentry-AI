@@ -1,0 +1,14 @@
+{
+  "name": "class_thresholds_experimental_640",
+  "image_size": 640,
+  "class_thresholds": {
+    "D00": 0.2,
+    "D10": 0.2,
+    "D20": 0.25,
+    "D40": 0.25
+  },
+  "baseline_global_threshold": 0.25,
+  "matching_iou_for_calibration": 0.5,
+  "status": "experimental_not_production",
+  "warning": "Thresholds were explored on the validation dataset. Do not claim independent test performance from these results."
+}
